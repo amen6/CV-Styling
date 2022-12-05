@@ -73,6 +73,11 @@ header div {
     color: red;
 }
 
+.experience-type::after {
+    content: "@";
+    padding-left: 5px;
+}
+
 .experience-details {
     color: #b4b4b4;
 }
