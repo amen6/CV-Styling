@@ -13,6 +13,10 @@ header div {
     margin-bottom: 50px;
 }
 
+figure img {
+    width: 110px;
+}
+
 #contact {
     position: absolute;
     top: 10px;
